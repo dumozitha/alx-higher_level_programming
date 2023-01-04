@@ -1,5 +1,3 @@
-able File  79 lines (67 sloc)  2.38 KB
-
 #!/usr/bin/python3
 """A class that defines a rectangle"""
 
